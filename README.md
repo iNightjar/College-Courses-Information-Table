@@ -7,6 +7,8 @@ Tools I used : JavaFX and MySQL Normalized Database.<br/><br/>
 
 <br/><br/>
 ![Demo Photos](demonstrationImages/image.png)  <br/>
+![Demo Photos](demonstrationImages/image2.png)  <br/>
+![Demo Photos](demonstrationImages/image7.png)  <br/>
 <br/><br/>
 
 # Source Code Structure
