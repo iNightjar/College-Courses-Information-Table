@@ -1,0 +1,22 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+    
+    #right-sec{
+        -fx-background-color:#D94C1A;
+    }
+    
+    .username{
+         -fx-background-color:red;
+        -fx-border-radius: 30;
+        -fx-color:white;
+    
+  
+    }
+    #login-btn{
+       -fx-background-color:red;
+    }
