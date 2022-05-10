@@ -1,9 +1,10 @@
 ## JAVAFX College Courses Information Table.
 
-Project I made using 
-### MVC Pattern <br/>
-Tools I used : 
-### JavaFX and MySQL Normalized Database
+## Project I made using 
+#### `MVC Pattern` <br/>
+
+## Tools I used : 
+#### `JavaFX and MySQL Normalized Database`
 
 ### Demonstration
 
