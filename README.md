@@ -5,9 +5,9 @@ Project I made using
 Tools I used : 
 ### `JavaFX and MySQL Normalized Database`
 
-### `Demonstration`
+### Demonstration
 
-<br/>
+<br/><br/>
 ![GIF](demonstrationImages/demo28Seconds.gif)
 <!-- ![Demo Photos](demonstrationImages/image.png)  <br/>
 ![Demo Photos](demonstrationImages/image2.png)  <br/>
@@ -23,6 +23,6 @@ MVC Pattern :<br/>
 #### `View Patterns Under: /src/resources/java/tables/coursestables`
 
 
-### `Normalized MYSQL DataBase`
+### Normalized MYSQL DataBase
 
-### `GUI Using SceneBuilder`
+### GUI Using SceneBuilder
