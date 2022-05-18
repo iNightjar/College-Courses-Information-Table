@@ -1,7 +1,7 @@
 ## JAVAFX College Courses Information Table.
 
 ## Project I made using 
-#### `MVC Pattern` <br/>
+#### `MVC Applicaiton Design Pattern` <br/>
 
 ## Tools I used : 
 #### `JavaFX and MySQL Normalized Database`
@@ -21,7 +21,7 @@
 
 ### MVC Pattern :<br/>
 
-#### `Make and Control Patterns Under: /src/main/java/tables/coursestables` 
+#### `Model and Control Patterns Under: /src/main/java/tables/coursestables` 
 #### `View Patterns Under: /src/resources/java/tables/coursestables`
 
 
