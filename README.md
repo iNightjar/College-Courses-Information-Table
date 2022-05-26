@@ -7,13 +7,10 @@
 #### `JavaFX and MySQL Normalized Database`
 
 ### Demonstration
+<br>
+<div align="left" width="50">
 
-<br/><br/>
-![GIF](demonstrationImages/demo28Seconds.gif)
-<!-- ![Demo Photos](demonstrationImages/image.png)  <br/>
-![Demo Photos](demonstrationImages/image2.png)  <br/>
-![Demo Photos](demonstrationImages/image7.png)  <br/> -->
-<br/>
+<img src="https://github.com/iNightjar/College-Courses-Information-Table/blob/master/demonstrationImages/demo28Seconds.gif?raw=true" href="https://github.com/iNightjar" alt="demonstrator gif"  width="550"/><br> 
 
 ## Source Code Structure
 
@@ -21,9 +18,9 @@
 
 ### MVC Pattern :<br/>
 
-#### `Model and Control Patterns Under: /src/main/java/tables/coursestables` 
-#### `View Patterns Under: /src/resources/java/tables/coursestables`
+* [Mudole | Control](https://github.com/iNightjar/College-Courses-Information-Table/tree/master/src/main/java/tables/coursestables)
 
+* [View](https://github.com/iNightjar/College-Courses-Information-Table/tree/master/src/main/resources/tables/coursestables) 
 
 ## Normalized MYSQL DataBase
 
