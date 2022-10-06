@@ -1,12 +1,5 @@
 ## JAVAFX College Courses Information Table.
 
-## Project I made using 
-#### `MVC Applicaiton Design Pattern` <br/>
-
-## Tools I used : 
-#### `JavaFX and MySQL Normalized Database`
-
-### Demonstration
 <br>
 <div align="left" width="50">
 
@@ -14,9 +7,7 @@
 
 ## Source Code Structure
 
-<br/>
-
-### MVC Pattern :<br/>
+### MVC Pattern<br/>
 
 * [Mudole | Control](https://github.com/iNightjar/College-Courses-Information-Table/tree/master/src/main/java/tables/coursestables)
 
